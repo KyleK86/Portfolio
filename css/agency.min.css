@@ -122,7 +122,10 @@ img::-moz-selection {
     background: 0 0
 }
 
-
+#portPic {
+    height: 200px;
+    width: 350px;
+}
 
 #mainNav {
     background-color: #212529
