@@ -131,6 +131,11 @@ img::-moz-selection {
   width: 350px;
 }
 
+#resumeDownload {
+  font-weight: bold;
+  color: red;
+}
+
 
 
 #mainNav .navbar-toggler {
