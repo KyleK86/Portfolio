@@ -745,3 +745,38 @@ ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
   background-color: #fed136;
 }
+
+
+@media only screen and (min-width: 1200px) {
+  #circleFix {
+    height: 156px;
+    width: 156px;
+    border-radius: 50%;
+  }
+}
+
+
+
+@media only screen and (max-width: 760px) {
+  #circleFix {
+    height: 66px !important;
+    width: 66px !important;
+    border-radius: 50%;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  #circleFix {
+    height: 86px !important;
+    width: 86px !important;
+    border-radius: 50%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  #circleFix {
+    height: 136px !important;
+    width: 136px !important;
+    border-radius: 50%;
+  }
+}

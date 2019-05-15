@@ -740,3 +740,9 @@ ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
     background-color: #fed136
 }
+
+#circleFix {
+    height: 156px;
+    width: 156px;
+    border-radius: 50%;
+}
