@@ -136,6 +136,10 @@ img::-moz-selection {
   color: red;
 }
 
+.img-fluid {
+  height: 100% !important;
+}
+
 
 
 #mainNav .navbar-toggler {

@@ -26,6 +26,11 @@ a:hover {
     width: 250px;
 }
 
+.img-fluid {
+    height: 100% !important;
+}
+
+
 
 
 .text-primary {
