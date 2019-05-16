@@ -26,7 +26,8 @@ a:hover {
     width: 250px;
 }
 
-.img-fluid {
+
+#circleFix {
     height: 100% !important;
 }
 
