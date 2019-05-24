@@ -136,7 +136,7 @@ img::-moz-selection {
   color: red;
 }
 
-.img-fluid {
+#circleFix {
   height: 100% !important;
 }
 
