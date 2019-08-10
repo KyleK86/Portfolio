@@ -139,6 +139,10 @@ img::-moz-selection {
 #circleFix {
   height: 100% !important;
 }
+#liriFix{
+  text-align: center;
+  margin-top: -22px;
+}
 
 
 

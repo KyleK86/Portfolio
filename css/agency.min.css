@@ -31,7 +31,16 @@ a:hover {
     height: 100% !important;
 }
 
-s
+#liriFix{
+    text-align: center;
+    margin-top: -22px;
+  }
+  
+  #otherLiriFix{
+    text-align: center;
+    margin-top: -8px;
+  }
+  
 
 
 .text-primary {
