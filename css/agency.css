@@ -144,6 +144,11 @@ img::-moz-selection {
   margin-top: -22px;
 }
 
+#otherLiriFix{
+  text-align: center;
+  margin-top: -8px;
+}
+
 
 
 #mainNav .navbar-toggler {
